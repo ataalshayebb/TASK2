@@ -1,0 +1,38 @@
+body{
+    font-size: 22px;
+    background: gray;
+}
+h1{
+    text-decoration: line-through;
+}
+
+li a{color:orange}
+.one a{
+
+    color: aqua;
+    text-decoration:overline yellow;
+}
+.three a{
+
+    color: rgb(15, 55, 15);
+    background-color: yellow;
+}
+.two a{
+
+    color: rgb(255, 85, 0);
+}
+.two a:hover{
+
+    color: rgb(255, 0, 204);
+}
+.three a:hover{
+
+    color: rgb(255, 0, 204);
+}
+.one a:hover{
+
+    color: rgb(255, 0, 204);
+}
+li{
+    color: blue;
+}
